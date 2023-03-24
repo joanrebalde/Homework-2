@@ -1,4 +1,4 @@
-package motorph_payroll;
+package homework;
 
 import java.util.Scanner;
 

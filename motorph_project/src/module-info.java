@@ -5,5 +5,5 @@
  * @author Joan
  *
  */
-module motorph {
+module motorph_project {
 }
